@@ -1,4 +1,4 @@
-# Magic Wormhole
+### Magic Wormhole
 [![PyPI](http://img.shields.io/pypi/v/magic-wormhole.svg)](https://pypi.python.org/pypi/magic-wormhole)
 ![Tests](https://github.com/magic-wormhole/magic-wormhole/workflows/Tests/badge.svg)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/w1bdniovwm4egfyg/branch/master?svg=true)](https://ci.appveyor.com/project/warner/magic-wormhole)
